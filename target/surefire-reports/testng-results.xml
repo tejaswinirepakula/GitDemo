@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="114" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="114" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+      <class name="com.teja.app.SeleniumTest">
+        <test-method status="PASS" signature="BrowerAutomation()[pri:0, instance:com.teja.app.SeleniumTest@29ca901e]" name="BrowerAutomation" duration-ms="18" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowerAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:com.teja.app.SeleniumTest@29ca901e]" name="elementUI" duration-ms="1" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- com.teja.app.SeleniumTest -->
+      <class name="com.teja.app.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:com.teja.app.AppiumTest@6adede5]" name="IOSApps" duration-ms="1" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeappAndroid()[pri:0, instance:com.teja.app.AppiumTest@6adede5]" name="NativeappAndroid" duration-ms="0" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeappAndroid -->
+      </class> <!-- com.teja.app.AppiumTest -->
+      <class name="com.teja.app.RestApITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:com.teja.app.RestApITest@5649fd9b]" name="deleteTwitter" duration-ms="0" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:com.teja.app.RestApITest@5649fd9b]" name="postJira" duration-ms="2" started-at="2019-12-10T12:22:40 IST" finished-at="2019-12-10T12:22:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- com.teja.app.RestApITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
