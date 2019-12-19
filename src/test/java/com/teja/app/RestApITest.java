@@ -22,5 +22,8 @@ public class RestApITest {
 	public void deleteFB() {
 		System.out.println("deleteFb");
 	}
-
+	@Test
+	public void deleteMB() {
+		System.out.println("deletemb");
+	}
 }
