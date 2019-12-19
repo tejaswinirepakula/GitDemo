@@ -11,4 +11,8 @@ public void BrowerAutomation() {
 public void elementUI() {
 	System.out.println("elementUI");
 }
+@Test
+public void elementI() {
+	System.out.println("elementI");
+}
 }
